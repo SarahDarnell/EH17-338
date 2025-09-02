@@ -1,5 +1,5 @@
 #Composite variables for empathy dataset#
-#Written by Sarah Darnell, last updated 7.14.25
+#Written by Sarah Darnell, last updated 9.2.25
 
 library(readr)
 library(dplyr)
@@ -64,6 +64,78 @@ empathy_wide <- empathy_wide %>%
     psych_stress_tscore_t2 = t_score,
     psych_stress_se_t2 = se
   )
+
+
+#Add new variables which hold sum of all promis parent proxy short from v1.0
+#sleep disturbance 8a for t0, t1, and t2
+
+empathy_wide <- empathy_wide %>%
+  mutate(sleep_disturb_sum_t0 = 
+           promis_sq005pt0 + promis_sq020p_rt0 + 
+           promis_sq041p_rt0 + promis_sq042pt0 +
+           promis_sq017pt0 + promis_sq010pt0 +
+           promis_sq022pt0 + promis_sq036pt0) %>%
+  mutate(sleep_disturb_sum_t1 = 
+           promis_sq005pt1 + promis_sq020p_rt1 + 
+           promis_sq041p_rt1 + promis_sq042pt1 +
+           promis_sq017pt1 + promis_sq010pt1 +
+           promis_sq022pt1 + promis_sq036pt1) %>%
+  mutate(sleep_disturb_sum_t2 = 
+           promis_sq005pt2 + promis_sq020p_rt2 + 
+           promis_sq041p_rt2 + promis_sq042pt2 +
+           promis_sq017pt2 + promis_sq010pt2 +
+           promis_sq022pt2 + promis_sq036pt2)
+
+#create lookup table of t-scores and SE from promis manual
+sleep_disturb_lookup <- tibble(
+  summed_score = 8:40,
+  t_score = c(38.7, 44.4, 47.3, 49.7, 51.5, 53.2, 54.7, 56.0, 
+              57.2, 58.4, 59.6, 60.8, 62.0, 63.1, 64.2, 65.3, 
+              66.3, 67.3, 68.4, 69.4, 70.5, 71.5, 72.5, 73.5, 
+              74.6, 75.7, 76.8, 78.0, 79.3, 80.7, 82.3, 84.1, 85.6),
+  se = c(6.1, 4.4, 3.8, 3.3, 3.1, 2.8, 2.7, 2.6, 2.6, 2.6, 2.6,
+         2.6, 2.6, 2.6, 2.6, 2.6, 2.6, 2.6, 2.6, 2.6, 2.5, 2.5, 
+         2.5, 2.5, 2.5, 2.6, 2.7, 2.8, 2.9, 3.0, 3.1, 3.1, 2.9)
+)
+
+#create new variables with t scores and SE for T0, T1, and T2 via joins
+empathy_wide <- empathy_wide %>%
+  # t0
+  left_join(sleep_disturb_lookup, by = c("sleep_disturb_sum_t0" = "summed_score")) %>%
+  rename(
+    sleep_disturb_tscore_t0 = t_score,
+    sleep_disturb_se_t0 = se
+  ) %>%
+  # t1
+  left_join(sleep_disturb_lookup, by = c("sleep_disturb_sum_t1" = "summed_score")) %>%
+  rename(
+    sleep_disturb_tscore_t1 = t_score,
+    sleep_disturb_se_t1 = se
+  ) %>%
+  # t2
+  left_join(sleep_disturb_lookup, by = c("sleep_disturb_sum_t2" = "summed_score")) %>%
+  rename(
+    sleep_disturb_tscore_t2 = t_score,
+    sleep_disturb_se_t2 = se
+  )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #saving file
 write_csv(empathy_wide, "C:/Users/Eli S/Documents/Sarah work stuff/2025 Data Projects/EH17-338/EH17-338/Empathy_Actigraphy_Diaries_Wide_Values__SeeWan7.10.25_COMPOSITES.csv")           
