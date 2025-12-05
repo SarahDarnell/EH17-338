@@ -1,9 +1,8 @@
-#Composite variables for empathy dataset#
+#Composite variables for empathy dataset
 #Written by Sarah Darnell, last updated 9.2.25
 
 library(readr)
 library(dplyr)
-library(readr)
 
 #set working directory
 setwd("~/Sarah work stuff/2025 Data Projects/EH17-338/EH17-338")
