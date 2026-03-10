@@ -1,0 +1,277 @@
+record_id,redcap_event_name,annual_q1,annual_q2,annual_q3,annual_q4,annual_q5,annual_q6,annual_q7,annual_q8,annual_q9,annual_q10,annual_q11,annual_q12,annual_q13,annual_q14,annual_q15,annual_q16,annual_q17,annual_q18,annual_q19,annual_q20,annual_q21,annual_q22,annual_q23,annual_q24,annual_q25,annual_q26,annual_q27,annual_q28,annual_q29,annual_q30,annual_q31,annual_q32,annual_followup_questionnaire_child_complete
+1,annual_year_1_arm_1,1,1,,0,,50,0,,5,3,0,0,0,,,,,,,,,0,0,0,0,0,0,50,50,50,,2025-01-10,2
+2,annual_year_2_arm_1,1,1,"hormonal iud",1,,10,1,3,1,0,0,0,4,0,0,4,2,0,1,0,2,1,0,0,3,2,1,5,0,0,"Graduating and choosing a college has been very stressful!",2024-07-02,2
+5,annual_year_1_arm_1,1,0,,1,,20,1,2,3,0,0,0,0,,,,,,,,,0,0,0,2,3,2,43,27,24,"Not really! ",2023-02-20,2
+5,annual_year_2_arm_1,1,0,,1,,0,0,,5,0,0,0,0,,,,,,,,,0,0,0,2,3,2,18,0,0,"A lot of AP classes and track season so stressful but fun! ",2024-01-15,2
+5,annual_year_3_arm_1,1,0,,1,,23,1,3,4,0,0,1,0,,,,,,,,,0,0,0,2,3,1,24,25,23,"I chose to attend the University of Illinois for college next year! ",2025-02-18,2
+7,annual_year_1_arm_1,0,0,,0,,0,0,,3,0,0,0,0,,,,,,,,,0,0,0,2,3,0,0,0,0,Na,2022-10-20,2
+7,annual_year_2_arm_1,1,0,,1,,0,0,,3,0,0,0,0,,,,,,,,,0,0,0,2,3,0,0,0,0,,2023-11-04,2
+8,annual_year_1_arm_1,1,0,,1,,53,0,,2,0,0,0,5,1,0,4,1,2,1,3,1,1,2,0,2,3,5,0,2,1,"No ",2022-11-12,2
+8,annual_year_2_arm_1,1,0,,1,,50,1,2,4,0,0,0,1,0,1,0,2,1,2,2,0,1,0,1,2,3,4,28,43,66,"nope ",2023-12-25,2
+8,annual_year_3_arm_1,1,0,,1,,63,0,,5,1,0,0,1,0,1,4,1,2,1,1,0,1,0,0,1,2,6,6,3,10,"nope, thank you!",2024-11-17,2
+9,annual_year_2_arm_1,0,1,"Lupin birth control",3,"When I went on birth control I didn't have it, but I have recently went off it in the last month and got it back.",,,,,1,0,0,1,1,1,1,3,2,1,0,2,0,0,0,2,0,1,27,30,10,"I am glad I got off birth control, it wasn't for me!",2024-01-14,2
+9,annual_year_3_arm_1,1,0,,1,,45,2,2,3,0,0,1,2,0,1,2,1,1,0,2,2,0,1,0,3,2,3,27,15,1,,2025-01-07,2
+13,annual_year_2_arm_1,1,0,,1,,61,2,3,5,0,1,1,2,0,0,4,3,1,0,0,1,1,0,0,2,3,2,10,9,28,"I just started college 3 weeks ago at Carleton in Minnesota!!! :)",2025-09-18,2
+22,annual_year_1_arm_1,1,0,,1,,28,2,2,4,0,0,0,2,0,1,4,3,1,1,0,0,2,2,1,3,2,1,7,0,8,"My mom's currently in remission from metastatic breast cancer, which has been a massive relief but stressful regardless.",2024-01-01,2
+22,annual_year_2_arm_1,1,0,,1,,41,2,2,4,0,0,0,0,,,,,,,,,2,1,0,2,2,2,11,0,13,,2024-11-18,2
+22,annual_year_3_arm_1,1,0,,0,,23,1,2,4,0,0,0,0,,,,,,,,,1,1,0,2,3,2,10,0,0,No,2025-11-29,2
+24,annual_year_2_arm_1,1,0,,1,,59,1,0,4,2,2,1,5,1,1,2,0,2,0,0,0,1,1,4,2,2,4,1,0,11,,2024-06-25,2
+25,annual_year_1_arm_1,0,0,,0,,18,2,2,5,0,0,2,5,0,0,3,3,1,0,2,0,1,1,1,3,2,3,39,1,0,"Mainly all the same. The biggest thing would be that I am very stressed out. I am currently working on memorizing a musical, working on a scene in my acting class, trying to prepare for my sports season, and that's just on top of schoolwork. The main concern I have is that my stomach and head often hurt pretty bad in the mornings. With that, I am supposed to get tested for anemia at some point.    Last thing - I am currently on my period, so this survey may be scewed. Sorry",2022-02-05,2
+25,annual_year_2_arm_1,1,0,,1,,70,3,2,5,0,0,2,3,0,0,3,2,0,0,1,0,2,1,0,4,2,3,18,2,10,"stressed about college and my first lead in a high school play!!",2023-01-17,2
+25,annual_year_3_arm_1,0,0,,0,,85,3,3,5,0,0,2,5,0,0,4,3,1,2,2,0,2,2,2,3,3,4,20,0,2,"college apps, started taking an SSRI",2024-01-18,2
+27,annual_year_1_arm_1,1,0,,1,,32,1,1,5,0,0,0,0,,,,,,,,,2,2,0,3,2,0,0,0,0,"In may I started birth control. In early July I missed a pill and that set off a weird reaction and the birth control wasn't enough estrogen to work with me anymore and I had my period for about 2 and a half months with about 2 breaks that lasted between about 2 days per break. I have since stopped birth control and have been off since mid September and have had regular periods since",2023-10-19,2
+27,annual_year_2_arm_1,1,0,,1,,11,2,3,5,1,0,1,2,0,0,4,2,2,0,0,0,0,2,0,4,3,1,0,0,0,"Currently taking antidepressants everyday  20mg ",2024-11-01,2
+27,annual_year_3_arm_1,1,1,"Birth control pills",1,,19,1,2,5,1,0,0,5,0,0,3,1,2,2,1,1,3,2,2,3,1,2,21,0,18,"Starting college!",2025-10-29,2
+31,annual_year_1_arm_1,1,0,,1,,59,1,2,4,0,0,1,0,,,,,,,,,2,2,1,3,3,6,0,0,36,No.,2024-06-30,2
+31,annual_year_2_arm_1,1,1,"Junel Fe ",1,,40,0,,4,0,0,0,0,,,,,,,,,0,0,2,2,3,0,1,0,0,None.,2025-06-16,2
+33,annual_year_1_arm_1,1,0,,1,,10,1,2,4,0,0,1,3,0,0,1,3,1,0,1,1,1,1,0,2,3,0,3,1,9,"nope ",2023-12-26,2
+34,annual_year_1_arm_1,1,0,,1,,37,3,3,3,0,0,1,3,0,0,,,3,0,3,0,2,2,0,3,2,2,9,1,1,"been stressed with school lately, as well as temporary moving due to a house flood ",2023-02-08,2
+34,annual_year_2_arm_1,1,1,larin,1,,26,2,3,3,0,0,0,5,1,1,3,0,1,1,2,0,1,2,0,2,2,2,4,5,4,,2024-02-05,2
+34,annual_year_3_arm_1,0,1,Opill,1,,57,1,3,3,0,0,1,3,0,1,4,2,2,1,1,0,2,1,0,1,2,3,51,12,55,"just started new birth control around same time my periods started coming more often, around 3 months ago. my last cycle was 18 days",2025-01-31,2
+35,annual_year_2_arm_1,0,1,Testosterone,3,"My HRT interferes with menstruation",,,,,0,0,0,0,,,,,,,,,0,0,0,3,3,2,0,0,0,,2023-07-05,2
+37,annual_year_2_arm_1,1,0,,1,,33,2,3,3,1,1,0,2,0,0,2,3,4,0,0,2,2,3,0,4,1,3,5,0,20,"Recently I've started getting mild stomachaches when I've been standing for more than 30ish minutes. I do not know why.",2024-04-05,2
+37,annual_year_3_arm_1,1,0,,1,,41,2,3,4,0,0,0,0,,,,,,,,,3,1,2,4,2,3,0,0,0,"AP tests are stressing me tf out",2025-04-18,2
+38,annual_year_1_arm_1,1,1,"Lessina ",1,,58,1,1,4,0,0,0,0,,,,,,,,,0,0,0,2,4,6,0,0,0,,2023-11-21,2
+38,annual_year_2_arm_1,0,1,norethindrone,3,"my birth control prevents me from getting my  period ",,,,,0,0,0,0,,,,,,,,,0,0,0,3,4,0,0,0,0,,2024-04-09,2
+38,annual_year_3_arm_1,0,1,Slynd,3,"birth control",,,,,0,0,0,0,,,,,,,,,0,0,0,2,4,0,0,0,0,"I started college!",2024-04-09,2
+39,annual_year_1_arm_1,1,0,,1,,69,4,3,4,1,1,1,0,,,,,,,,,0,0,0,1,3,0,9,3,3,,2022-09-26,2
+39,annual_year_2_arm_1,0,0,,2,,54,3,2,5,0,1,0,3,0,0,3,2,0,0,0,1,1,1,0,2,2,2,5,3,3,"In the past like 14 months I have had on going headaches (we've seen a nuro and have Another appointment coming soon). Since September 1st I have had my period 31 days total and we have an appointment coming up with my doctor about it ",2023-10-09,2
+39,annual_year_3_arm_1,1,1,"Junel FE 1/20",1,,24,2,3,5,0,0,0,0,,,,,,,,,1,1,1,2,3,3,14,0,3,,2024-10-07,2
+40,annual_year_1_arm_1,1,1,Ortho,1,,,2,3,6,2,1,1,2,0,0,1,1,2,2,2,2,1,1,2,2,3,3,26,2,0,,2022-10-15,2
+40,annual_year_2_arm_1,1,1,Yaz,1,,17,0,,5,0,0,0,4,1,1,0,3,2,2,1,1,1,1,1,1,3,2,11,4,10,"Finished accutane",2023-10-06,2
+40,annual_year_3_arm_1,1,1,Ortho-tricyclian,1,,20,1,1,4,0,1,0,3,1,0,4,3,3,2,0,3,1,1,0,1,3,3,31,5,4,,2024-10-05,2
+41,annual_year_1_arm_1,1,0,,1,,29,3,3,5,0,0,0,1,0,1,0,0,1,1,1,0,0,0,1,2,3,2,0,0,77,"I dislocated my kneecap. ",2021-12-05,2
+41,annual_year_2_arm_1,1,1,"Birth Control",1,,23,3,3,4,0,0,0,1,0,0,1,4,0,0,0,0,0,0,0,2,3,0,0,0,0,,2022-10-23,2
+41,annual_year_3_arm_1,1,0,,1,,25,2,4,4,0,0,0,2,0,1,0,3,2,1,0,0,0,0,0,2,4,3,0,0,0,,2023-10-28,2
+67,annual_year_1_arm_1,1,0,,1,,25,0,,4,0,0,2,0,,,,,,,,,0,0,0,1,3,2,0,1,0,,2025-07-04,2
+70,annual_year_2_arm_1,1,0,,1,,25,0,,4,0,0,0,0,,,,,,,,,1,0,0,2,2,0,0,0,0,No,2025-11-26,2
+71,annual_year_1_arm_1,1,0,,1,,56,0,,2,1,1,1,2,,1,0,3,1,1,1,2,1,0,1,1,3,0,3,0,0,"Not really",2022-10-19,2
+71,annual_year_3_arm_1,1,0,,1,,72,2,3,3,0,0,1,3,0,1,3,3,1,0,1,0,1,1,0,2,2,5,22,0,9,No,2024-11-02,2
+72,annual_year_1_arm_1,1,0,,1,,57,1,3,3,0,0,1,2,0,1,0,3,2,0,0,2,1,0,1,3,4,4,55,8,55,"starting highschool and being on a varisty dance team, all impacted me in a positive way",2022-04-11,2
+72,annual_year_2_arm_1,1,0,,1,,57,1,3,4,0,0,1,1,1,1,0,3,1,1,2,0,1,0,0,3,3,1,5,15,11,,2023-03-06,2
+72,annual_year_3_arm_1,1,0,,1,,67,2,2,3,0,0,2,3,0,1,0,3,2,2,1,3,1,2,1,3,2,7,53,17,8,"Junior year is stressful with colleges and tests but I think I am handling it pretty well so far!",2024-04-07,2
+75,annual_year_1_arm_1,1,0,,1,,55,3,4,5,0,0,0,0,,,,,,,,,0,0,0,0,4,0,0,0,0,No,2023-12-28,2
+75,annual_year_2_arm_1,1,0,,1,,42,3,4,4,0,0,0,1,0,1,2,0,4,4,4,0,0,0,0,1,4,4,4,9,3,,2025-01-06,2
+75,annual_year_3_arm_1,1,0,,1,,9,1,4,5,0,0,0,0,,,,,,,,,0,0,0,2,4,0,3,4,8,No,2026-02-01,2
+77,annual_year_1_arm_1,0,0,,0,,71,0,,3,2,1,2,5,0,0,3,3,2,3,3,1,0,2,0,4,1,4,12,0,61,"I found out that I had low iron",2022-10-14,2
+77,annual_year_2_arm_1,0,0,,0,,40,0,,2,0,1,1,5,0,0,3,2,2,1,1,1,2,2,0,3,3,3,11,0,39,,2023-11-07,2
+77,annual_year_3_arm_1,0,0,,3,"I don't know",,,,,0,0,0,5,0,0,4,2,2,1,3,2,1,2,0,3,2,1,19,0,10,"I went to college and just finished my first semester. ",2024-06-09,2
+78,annual_year_1_arm_1,1,0,,1,,68,3,3,5,1,1,1,3,1,1,4,0,1,0,1,0,1,1,1,1,2,7,15,22,6,,2024-06-16,2
+79,annual_year_1_arm_1,1,0,,1,,57,1,2,2,0,0,0,2,0,0,3,3,3,3,3,1,1,2,0,4,3,1,32,0,0,,2022-04-20,2
+79,annual_year_2_arm_1,1,0,,1,,65,2,2,1,0,0,0,3,0,1,4,1,1,1,1,1,1,1,2,3,3,3,18,7,16,,2023-04-28,2
+79,annual_year_3_arm_1,1,0,,1,,59,2,2,2,0,0,0,1,1,0,4,3,2,3,3,0,0,2,0,3,3,2,36,0,29,,2024-05-01,2
+84,annual_year_1_arm_1,1,0,,1,,48,2,4,4,0,0,0,1,0,1,0,4,0,0,0,0,0,0,2,2,4,0,0,0,4,"Started high school this year and start drivers Ed next week.",2023-01-06,2
+84,annual_year_2_arm_1,1,0,,1,,40,2,4,4,0,0,0,0,,,,,,,,,0,0,1,2,3,0,0,0,0,"Stress in high school and am now on accutane for acne.",2023-11-28,2
+84,annual_year_3_arm_1,1,1,Junel,1,,10,2,3,3,0,0,0,1,0,1,0,1,0,2,0,0,0,0,2,2,4,2,0,0,0,,2025-01-11,2
+87,annual_year_1_arm_1,1,0,,1,,37,2,2,5,0,0,0,0,,,,,,,,,0,0,1,1,3,0,0,0,0,no,2023-04-13,2
+88,annual_year_2_arm_1,1,0,,1,,58,1,3,4,0,0,0,0,,,,,,,,,0,0,1,2,3,4,0,0,0,No,2025-08-11,2
+89,annual_year_1_arm_1,1,0,,1,,55,2,2,3,0,0,0,2,0,0,1,0,2,2,1,0,1,1,2,2,3,4,60,59,34,,2022-05-13,2
+89,annual_year_2_arm_1,1,0,,1,,24,2,1,4,1,0,0,2,0,0,0,2,0,2,0,0,0,3,0,3,1,5,0,0,0,,2023-05-25,2
+89,annual_year_3_arm_1,1,0,,1,,33,3,2,3,0,0,0,2,0,1,0,3,1,1,1,2,1,1,1,2,3,4,26,19,37,"Lost around 40+ pounds since November ",2024-06-07,2
+90,annual_year_1_arm_1,1,0,,1,,8,1,1,4,0,1,1,0,,,,,,,,,1,2,0,3,2,1,16,16,12,No,2033-09-20,2
+90,annual_year_2_arm_1,1,0,,1,,38,2,1,4,0,0,1,2,1,1,1,1,1,2,2,0,1,1,0,2,2,1,15,5,5,No,2024-09-19,2
+91,annual_year_1_arm_1,1,0,,1,,6,0,,3,0,0,0,0,,,,,,,,,1,0,1,3,3,0,7,2,3,"started high school=stressful",2022-10-16,2
+91,annual_year_2_arm_1,1,0,,1,,28,2,2,3,0,0,0,0,,,,,,,,,0,0,0,2,3,0,9,0,0,,2023-09-18,2
+91,annual_year_3_arm_1,1,0,,1,,39,2,2,4,0,0,0,0,,,,,,,,,0,0,0,2,3,0,5,4,0,"no  ",2024-10-04,2
+93,annual_year_1_arm_1,1,0,,1,,22,0,,4,0,1,2,2,0,0,0,2,1,2,2,1,1,0,2,2,3,2,28,11,14,,2023-07-01,2
+93,annual_year_2_arm_1,1,1,"birth control pills",1,,26,0,,5,0,0,1,3,1,1,0,2,2,0,0,2,2,0,0,2,2,1,9,13,8,,2024-07-09,2
+93,annual_year_3_arm_1,0,1,Junel,0,,19,1,2,3,0,0,1,0,,,,,,,,,1,1,0,2,2,0,24,11,1,,2025-05-21,2
+96,annual_year_1_arm_1,1,0,,1,,37,1,1,3,0,0,0,2,0,1,4,3,0,0,0,0,0,0,0,0,3,0,0,0,0,,2023-06-11,2
+96,annual_year_3_arm_1,1,1,"Tri Lo Milli",1,,36,2,2,3,0,0,0,0,,,,,,,,,0,0,1,0,3,2,26,0,8,"I'm still adjusting to birth control so my periods have become lighter and I have even skipped a month of bleeding. ",2025-05-26,2
+97,annual_year_1_arm_1,1,0,,1,,6,0,,5,0,0,1,1,0,0,0,3,0,0,1,0,0,0,0,2,3,0,0,0,5,"School is ending, and I had some important IB exams that caused me a lot of stress, but I finished them.",2023-04-20,2
+97,annual_year_2_arm_1,1,0,,1,,7,0,,5,0,0,0,2,0,1,1,3,1,0,0,0,1,2,0,4,3,0,0,5,7,"Finished my last senior musical, cut off my best friend",2024-04-05,2
+97,annual_year_3_arm_1,1,0,,1,,68,4,1,4,2,1,2,0,,,,,,,,,0,0,0,4,3,0,0,0,0,"Started college last fall!",2025-03-29,2
+100,annual_year_1_arm_1,1,0,,1,,63,2,2,3,1,1,1,2,0,1,0,0,0,0,0,0,0,0,1,1,3,7,8,9,7,N/A,2023-02-26,2
+100,annual_year_2_arm_1,1,0,,1,,65,4,4,3,1,0,0,1,0,1,3,3,3,3,3,0,0,1,0,3,3,0,50,11,8,"Just started accutane ",2024-02-19,2
+100,annual_year_3_arm_1,1,0,,1,,62,4,4,3,2,2,2,1,0,1,0,4,1,4,4,1,1,1,2,2,2,0,29,0,3,,2025-01-03,2
+101,annual_year_1_arm_1,1,0,,1,,51,3,2,3,0,0,0,0,,,,,,,,,0,0,3,1,4,0,1,3,1,,2023-07-08,2
+101,annual_year_2_arm_1,1,0,,1,,54,2,1,3,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,5,0,,2024-07-11,2
+101,annual_year_3_arm_1,1,0,,1,,59,1,1,3,0,0,1,2,0,1,0,2,2,2,2,2,1,0,2,2,4,6,28,1,3,,2025-08-15,2
+103,annual_year_1_arm_1,1,1,"Kyleena IUD",1,,60,2,3,6,1,1,0,4,,0,4,1,3,0,0,0,2,0,2,2,4,0,2,0,2,"I got an IUD",2023-12-04,2
+103,annual_year_2_arm_1,1,1,IUD,1,,71,3,2,5,0,0,0,5,0,0,3,1,0,1,0,0,0,0,0,2,4,6,0,0,0,"IUD and alots of dress regarding college applications",2024-10-25,2
+103,annual_year_3_arm_1,1,1,"IUD ",1,,79,3,3,6,1,1,1,4,0,0,4,1,0,0,2,0,0,0,0,2,4,6,0,3,0,No,2025-11-23,2
+104,annual_year_1_arm_1,1,0,,1,,25,0,,5,0,0,0,3,0,1,0,4,0,0,0,0,1,1,0,3,3,3,41,63,43,"uh i had a uti the past week so thats why my pain without the period has been more.",2023-11-23,2
+104,annual_year_2_arm_1,1,0,,1,,26,1,3,5,0,0,1,3,0,1,2,0,2,0,1,3,1,0,0,3,3,2,49,9,0,"i went to costa rica over the summer. it was fun!",2024-11-25,2
+104,annual_year_3_arm_1,1,0,,1,,65,2,3,5,0,1,2,2,0,1,3,0,0,0,1,0,2,3,1,3,3,6,26,0,0," -my dog died during labor day weekend  -started college  -had a major breakup with 3 year long relationship  -joined club ultimate frisbee in college",2025-11-22,2
+108,annual_year_1_arm_1,1,0,,1,,25,0,,3,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,0,0,,2023-01-29,2
+108,annual_year_2_arm_1,1,0,,1,,33,0,,4,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,0,0,,2024-02-01,2
+108,annual_year_3_arm_1,1,0,,1,,7,0,,3,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,0,0,,2025-02-07,2
+111,annual_year_2_arm_1,1,0,,1,,9,1,2,5,0,2,2,2,0,1,2,,2,1,1,1,0,2,0,1,3,2,0,0,0,No,2024-11-23,2
+112,annual_year_1_arm_1,1,0,,0,,64,2,1,2,0,0,1,5,1,1,1,2,3,2,2,2,3,1,2,3,3,6,37,13,59,no,2023-01-03,2
+112,annual_year_2_arm_1,1,0,,1,,68,2,3,1,0,0,2,4,0,0,4,1,2,1,2,2,2,1,3,3,3,5,11,74,64,nope!,2024-01-26,2
+112,annual_year_3_arm_1,1,0,,1,,33,2,3,3,0,0,2,3,0,0,4,3,3,2,1,3,2,0,2,2,3,2,13,6,6,nope!,2025-01-03,2
+113,annual_year_1_arm_1,1,0,,2,,10,1,1,6,0,1,1,2,1,1,1,3,2,0,2,1,0,0,0,2,2,1,5,1,0,,2023-05-08,2
+113,annual_year_2_arm_1,1,1,loestrin,1,,14,1,1,5,0,0,0,0,,,,,,,,,0,0,0,1,2,0,15,0,0,,2024-05-01,2
+113,annual_year_3_arm_1,1,1,loestrin,1,,10,0,,4,0,0,0,5,1,0,4,0,2,2,0,0,0,0,3,3,3,5,48,3,50,"no significant change",2025-05-01,2
+114,annual_year_1_arm_1,0,0,,0,,53,3,3,5,0,0,0,2,1,1,3,1,0,0,2,0,0,1,0,4,2,3,0,0,37,,2023-08-13,2
+114,annual_year_2_arm_1,0,0,,0,,74,3,4,4,0,0,0,0,,,,,,,,,2,1,3,4,3,1,0,0,0,"I had a breast reduction a little more than a month ago and I am feeling great!",2024-07-14,2
+116,annual_year_1_arm_1,1,0,,1,,36,0,,3,0,1,1,3,0,1,4,0,1,0,0,1,0,0,1,2,3,3,22,0,2,"2 of my favorite teachers are leaving the school. My dad retired and got a new job. ",2022-04-24,2
+116,annual_year_2_arm_1,1,0,,1,,56,1,3,4,0,0,1,0,,,,,,,,,0,0,1,1,3,0,0,0,0,"Nothing. ",2023-04-24,2
+116,annual_year_3_arm_1,0,0,,3,"My medication. spironolactone",,,,,0,0,0,5,0,0,3,2,1,0,0,3,0,1,3,4,2,3,62,0,0,"I lost my period in July and started the medication mentioned  ",2023-07-11,2
+120,annual_year_2_arm_1,1,0,,1,,21,3,3,4,0,0,1,0,,,,,,,,,0,0,0,0,3,3,0,0,0,None,2025-08-07,2
+124,annual_year_2_arm_1,1,0,,1,,76,3,2,5,2,2,3,1,0,1,0,0,2,1,0,4,0,2,2,3,2,0,0,0,76,"I haven't seen much change.",2024-03-14,2
+124,annual_year_3_arm_1,1,0,,1,,62,4,2,4,2,2,1,2,0,1,0,1,0,0,0,3,0,0,1,3,3,0,0,0,63,"Not at all!",2025-03-03,2
+126,annual_year_1_arm_1,1,0,,0,,38,0,,4,0,0,0,0,,,,,,,,,0,0,0,0,0,0,34,23,11,No,2023-03-22,2
+126,annual_year_2_arm_1,0,0,,1,,21,2,2,4,0,0,0,0,,,,,,,,,0,0,0,2,2,0,23,0,3,No,2024-03-05,2
+126,annual_year_3_arm_1,1,0,,1,,38,2,3,4,0,0,0,2,0,1,0,0,0,1,1,,0,0,2,2,2,2,17,18,5,,2025-02-06,2
+128,annual_year_2_arm_1,1,0,,1,,48,3,3,3,0,0,2,5,1,0,0,0,1,1,1,0,0,0,0,0,4,5,67,0,0,Nope,2024-05-31,2
+128,annual_year_3_arm_1,1,0,,1,,68,4,3,4,0,0,0,1,0,1,3,1,3,2,3,0,0,0,0,2,4,2,27,0,14,,2025-05-17,2
+129,annual_year_1_arm_1,1,0,,1,,64,1,2,4,0,0,1,2,0,1,4,0,1,0,0,1,0,0,0,2,3,6,61,4,61,"I sprained my ankle 3 times",2025-01-18,2
+129,annual_year_2_arm_1,1,0,,1,,58,1,2,4,1,0,2,2,0,1,4,1,2,1,1,1,0,0,0,2,4,0,0,4,0,"College stuff ",2026-01-15,2
+130,annual_year_1_arm_1,1,0,,1,,0,0,,4,0,0,0,0,,,,,,,,,1,0,1,1,2,0,0,0,0,"Just starting high school ",2023-05-17,2
+130,annual_year_3_arm_1,1,0,,1,,0,0,,4,0,0,0,0,,,,,,,,,2,2,0,2,3,0,0,0,0,,2025-06-10,2
+131,annual_year_1_arm_1,0,0,,0,,0,0,,3,0,0,0,0,,,,,,,,,0,1,0,1,3,0,8,0,0,,2023-12-18,2
+131,annual_year_2_arm_1,0,0,,0,,37,2,3,4,0,0,1,0,,,,,,,,,0,0,0,2,3,0,0,0,0,,2023-12-09,2
+131,annual_year_3_arm_1,0,1,"IUD and spironolactone ",0,,21,0,,3,0,0,0,0,,,,,,,,,1,0,0,2,3,0,0,0,0,"I have recently been diagnosed with PCOS, explaining the irregular periods I had while participating in this study.",2025-12-11,2
+132,annual_year_1_arm_1,0,0,,1,,56,2,3,4,0,0,1,3,0,0,0,2,2,1,1,1,2,2,4,3,4,6,0,0,30,"diagnosed with new mental illnesses, diagnosed with pots and eds.",2022-12-06,2
+132,annual_year_2_arm_1,1,0,,1,,66,3,2,4,0,0,0,3,0,1,4,3,0,0,0,0,2,2,3,2,2,6,0,0,0,"I went to residential mental health treatment for an eating disorder and self harm.",2023-12-20,2
+132,annual_year_3_arm_1,1,0,,1,,59,2,2,3,0,1,1,3,0,1,0,3,0,0,0,0,3,3,2,3,2,6,0,2,12,"I was in an inpatient mental health facility and then a residential treatment center (January 16th-March 4th and March 4th-May 4th respectively). It was decided that I'm graduating high school a whole year early (May of 2025 instead of May of 2026). We've made plans to start EMDR. They changed my POTS meds. I've quit self-harm (or at least so far that's going ok). I've made great strides in eliminating eating disorder behaviors from my habits (or at least so far that's ok). ",2024-12-25,2
+137,annual_year_1_arm_1,0,0,,0,,55,4,3,5,0,0,2,5,0,0,4,2,3,3,1,2,0,1,1,2,2,2,62,29,19,"My grandma on my dad's side of the family passed away suddenly this April. In addition, over the past couple of months, my grandma on my mom's side has declined in health and has needed to reside in my house and in my room, meaning that tensions are high and my ""room"" is now upstairs for an undetermined amount of time. She was also recently put on hospice care at our house, with a nurse visiting every week.    On a more positive note, I am starting junior year, and I am going to try my best to perform well during the golf season this fall as team captain.",2024-07-30,2
+137,annual_year_2_arm_1,0,0,,0,,39,3,3,5,0,0,1,3,0,0,4,2,3,2,2,1,0,0,1,2,2,1,33,7,12,,2025-08-06,2
+144,annual_year_3_arm_1,0,0,,0,,66,4,2,5,0,0,0,2,1,1,0,2,2,0,4,1,1,1,3,2,3,6,56,0,0,No,2025-08-05,2
+145,annual_year_2_arm_1,1,0,,1,,76,4,2,2,2,2,1,3,0,1,2,1,2,2,3,0,0,0,3,1,3,7,61,1,3,no,2023-12-17,2
+146,annual_year_1_arm_1,1,0,,1,,71,2,2,3,1,2,3,3,1,1,4,1,1,1,1,1,1,1,2,3,2,3,60,57,58,"parents separating",2023-11-01,2
+146,annual_year_2_arm_1,1,0,,1,,71,3,3,4,1,1,2,5,1,1,4,2,3,0,0,4,1,1,3,3,3,5,69,3,11,,2024-11-19,2
+146,annual_year_3_arm_1,1,1,"Plan B once",1,,69,3,3,4,2,2,2,5,0,0,4,1,3,2,3,0,2,3,3,3,2,5,64,1,62,"Went to college and was majorly stressed, my period was late",2025-10-25,2
+147,annual_year_1_arm_1,1,0,,1,,67,0,,3,0,0,0,0,,,,,,,,,0,0,0,2,4,3,50,5,2,"No ",2024-10-27,2
+147,annual_year_2_arm_1,0,0,,0,,64,0,,3,0,0,0,5,0,0,4,1,3,2,0,4,0,0,0,2,4,7,72,0,62,"no ",2025-09-10,2
+152,annual_year_1_arm_1,1,0,,1,,53,2,3,5,1,1,1,0,,,,,,,,,0,0,1,3,3,0,0,0,0,,2023-10-05,2
+157,annual_year_1_arm_1,1,0,,1,,26,0,,2,0,0,0,0,,,,,,,,,0,0,0,2,4,0,0,0,1,No,2023-10-19,2
+157,annual_year_2_arm_1,1,0,,1,,7,0,,2,1,0,0,0,,,,,,,,,0,0,0,2,4,1,13,2,18,No!,2025-02-14,2
+157,annual_year_3_arm_1,1,0,,1,,10,0,,3,0,0,0,0,,,,,,,,,0,0,0,3,3,1,12,0,0,,2025-10-21,2
+158,annual_year_1_arm_1,1,0,,1,,32,2,3,4,0,2,3,0,,,,,,,,,1,3,0,4,2,3,11,43,1,,2022-12-13,2
+158,annual_year_2_arm_1,1,0,,1,,13,3,3,4,0,2,3,2,0,1,0,2,0,0,1,1,2,3,1,3,2,0,11,0,22,,2023-11-20,2
+158,annual_year_3_arm_1,1,0,,1,,24,2,3,3,0,2,2,2,0,1,2,3,3,2,1,0,2,2,0,4,4,3,0,0,0,,2024-11-15,2
+162,annual_year_1_arm_1,1,0,,1,,19,2,3,4,0,0,1,1,1,0,0,1,2,3,3,1,1,1,0,3,3,2,28,2,4,"Concussion, start of junior year",2024-08-02,2
+162,annual_year_2_arm_1,1,0,,1,,16,2,3,4,0,1,1,1,0,0,0,1,3,3,3,0,1,1,1,2,3,0,15,6,5,,2025-07-03,2
+167,annual_year_1_arm_1,1,0,,1,,5,2,2,3,0,0,0,2,1,1,0,2,1,1,1,1,3,3,2,4,4,2,13,6,5,"Got stitches ",2024-02-11,2
+167,annual_year_2_arm_1,1,0,,1,,9,1,2,3,0,0,1,2,1,0,0,3,0,1,0,0,2,3,1,3,3,1,2,2,3,"Doing exchange in colombia",2024-10-27,2
+167,annual_year_3_arm_1,1,0,,1,,17,2,2,3,0,1,0,2,0,1,3,1,1,0,0,1,2,2,2,3,3,0,2,3,10,"I was severely constipated, I had to do multiple enemas and am currently on laxatives. The answer responses are based on prior to this issue",2025-10-18,2
+168,annual_year_1_arm_1,1,0,,1,,60,1,2,3,1,0,0,3,1,1,0,3,0,1,1,1,0,0,2,2,3,5,8,0,45,"nope ",2024-07-06,2
+169,annual_year_1_arm_1,1,0,,1,,56,3,0,6,2,1,2,2,0,1,0,3,2,1,1,0,0,0,1,1,3,1,1,72,60,"I recently have gotten a uti, I've started taking meds but it has caused peeing to burn  ",2023-10-17,2
+169,annual_year_2_arm_1,1,1,"birth control",1,,19,1,3,5,0,0,0,1,0,1,,3,2,1,1,1,0,0,0,2,4,0,13,2,1,"broken toe ",2024-10-20,2
+170,annual_year_1_arm_1,1,0,,1,,57,3,2,4,1,0,1,3,1,0,3,0,0,1,0,3,1,0,2,2,3,5,15,0,0,"Lost a lot of weight and was in the hospital due to GI issues. I now take Linzess and senna if that information is helpful to you guys.",2023-08-05,2
+171,annual_year_1_arm_1,1,1,"birth control (Estarylla Tablets)",1,,79,3,2,4,1,1,2,0,,,,,,,,,2,0,0,3,3,6,16,0,8,"Just starting birth control to help with hormonal acne and to lighten and regulate my period!",2023-08-29,2
+175,annual_year_1_arm_1,1,1,"birth control ",1,,63,2,1,3,1,1,2,4,0,1,4,1,1,0,1,1,0,0,0,3,3,6,12,0,0,nope,2025-04-27,2
+176,annual_year_1_arm_1,1,0,,1,,0,4,3,6,1,1,0,3,0,1,0,4,1,1,,,0,0,2,2,3,0,0,0,0,Nope,2022-08-16,2
+176,annual_year_2_arm_1,1,0,,1,,17,4,4,6,0,1,1,0,,,,,,,,,0,0,0,2,3,0,0,0,0,"I've had some stress that caused some hair loss in March and April and I had my period twice those two months",2023-08-11,2
+176,annual_year_3_arm_1,0,0,,1,,32,4,4,5,1,1,1,0,,,,,,,,,0,0,3,3,2,0,0,0,0,Nope,2024-08-31,2
+177,annual_year_1_arm_1,1,0,,1,,13,0,,6,0,0,0,0,,,,,,,,,1,2,0,1,3,0,10,0,4,"I sprained my wrist and ankle, pulled my hamstrung and then I broke my foot",2023-06-22,2
+177,annual_year_2_arm_1,0,0,,0,,22,0,,5,0,0,1,1,0,1,0,4,1,1,2,0,2,2,0,1,2,1,10,12,14,"I have been much more active in sports.",2024-06-19,2
+177,annual_year_3_arm_1,0,0,,0,,63,1,1,6,1,0,1,2,1,1,0,4,0,0,1,0,1,1,1,2,2,0,3,0,0,"I was on a travel volleyball team where we had practices for three hours four times a week and tournaments almost every weekend.",2025-07-19,2
+179,annual_year_1_arm_1,1,0,,1,,5,0,,4,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,1,3,nope,2022-12-20,2
+179,annual_year_2_arm_1,1,0,,1,,0,0,,4,0,0,0,0,,,,,,,,,0,0,0,2,4,0,0,0,1,Nope!,2023-09-16,2
+179,annual_year_3_arm_1,1,0,,1,,10,0,,4,0,0,0,1,0,1,0,,0,0,0,0,0,0,0,1,4,1,0,0,0,"Nope! ",2024-09-29,2
+180,annual_year_1_arm_1,1,1,"Birth control pills",1,,7,0,,5,0,0,0,1,0,0,4,3,2,2,2,2,2,2,1,3,2,1,5,2,7,,2024-05-17,2
+180,annual_year_2_arm_1,0,1,"IUD MIrena",3,"IUD ",,,,,0,0,0,0,,,,,,,,,2,0,0,2,4,0,2,2,1,,2024-11-08,2
+181,annual_year_1_arm_1,1,0,,1,,82,3,1,4,0,2,2,4,0,0,3,1,2,1,1,0,1,2,3,2,3,6,67,30,36,,2024-06-20,2
+181,annual_year_2_arm_1,1,1,"xulane patch",1,,61,2,1,6,0,2,2,4,1,1,3,1,2,1,1,3,2,2,3,3,3,7,26,3,11,,2025-06-05,2
+182,annual_year_1_arm_1,1,0,,1,,69,3,2,4,2,2,1,3,0,1,4,2,1,1,0,0,2,1,2,3,3,3,55,15,20,"I started highschool ",2023-10-20,2
+183,annual_year_2_arm_1,1,0,,1,,37,3,4,2,0,0,2,2,0,1,3,1,2,3,3,0,3,3,2,4,2,1,6,0,9,"My period just recently started hurting and cramping much worse regularly than it had before. I believe this can happen after 2-3 years of having your period. ",2025-11-06,2
+187,annual_year_1_arm_1,1,0,,1,,64,1,2,4,1,1,0,2,1,0,4,2,3,1,2,2,0,1,0,1,3,3,55,0,0,,2025-01-03,2
+187,annual_year_2_arm_1,1,0,,1,,31,2,2,4,0,1,0,3,1,1,4,2,3,2,2,2,1,1,2,2,2,4,1,0,0,,2026-01-17,2
+197,annual_year_1_arm_1,1,0,,1,,100,3,1,6,2,0,2,3,0,1,0,0,4,0,3,0,0,0,2,2,3,10,50,0,0,,2024-01-11,2
+197,annual_year_2_arm_1,1,0,,1,,61,2,3,6,2,0,2,3,1,1,0,1,3,0,0,0,2,2,2,2,3,5,36,0,0,"I started taking birth control to regulate the cycle because sometimes my period would be delayed for 40+ days but it's better but I stopped taking it BC of the side affects         ",2025-01-12,2
+197,annual_year_3_arm_1,1,0,,2,,73,4,3,5,0,0,3,2,0,1,0,1,0,0,0,0,0,0,0,2,3,7,67,0,0,"stressors mainly senior year of highschool ",2026-02-01,2
+198,annual_year_1_arm_1,1,0,,1,,50,4,3,4,0,0,1,0,,,,,,,,,1,2,2,4,3,1,0,0,0,"I had a major ankle injury.",2023-12-19,2
+198,annual_year_2_arm_1,1,0,,1,,50,2,3,5,0,0,1,0,,,,,,,,,2,1,2,4,3,2,0,0,0,No.,2025-05-25,2
+201,annual_year_1_arm_1,0,0,,1,,71,3,3,4,0,0,0,2,0,1,3,1,2,1,3,1,0,0,3,2,4,6,32,19,8,,2025-06-12,2
+203,annual_year_1_arm_1,1,0,,1,,68,2,3,5,0,0,1,4,1,0,4,2,3,2,2,0,0,0,0,1,3,1,11,0,27,N/A,2023-09-11,2
+203,annual_year_2_arm_1,1,0,,1,,33,3,3,5,0,1,1,5,0,0,4,2,2,1,0,0,0,0,0,1,2,2,19,3,23,"Torn ACL towards end of August, surgery on Sept. 13th",2024-10-14,2
+203,annual_year_3_arm_1,1,0,,0,,26,3,3,5,0,0,0,4,0,0,3,3,3,1,1,1,0,0,0,1,3,0,8,0,8,,2025-09-26,2
+204,annual_year_1_arm_1,0,0,,0,,32,4,4,4,1,1,2,0,,,,,,,,,1,0,2,1,3,2,0,4,5,,2025-05-30,2
+205,annual_year_1_arm_1,1,0,,1,,9,1,3,3,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,0,0,"Nope ",2024-07-02,2
+211,annual_year_2_arm_1,1,0,,1,,67,3,2,5,0,1,1,2,0,1,4,0,1,1,1,1,1,3,2,3,3,6,25,7,6,,2025-07-21,2
+216,annual_year_1_arm_1,1,0,,1,,50,1,2,4,1,0,0,0,,,,,,,,,0,0,1,2,3,0,0,2,0,,2024-06-12,2
+216,annual_year_2_arm_1,1,0,,1,,61,2,1,3,0,0,1,1,0,1,3,3,3,0,0,0,0,0,0,2,3,6,20,65,37,no,2025-06-09,2
+222,annual_year_1_arm_1,0,0,,0,,66,4,3,4,2,1,1,3,0,1,3,1,1,1,1,1,1,0,2,2,3,7,50,0,5,"I got my period twice,  I have too much free testosterones.  I may go on birth control soon to to get my period more often. ",2024-08-26,2
+223,annual_year_1_arm_1,1,0,,1,,27,1,1,6,0,0,0,0,,,,,,,,,0,0,0,0,4,0,1,0,3,no,2024-06-09,2
+223,annual_year_2_arm_1,1,0,,1,,50,2,3,5,0,0,0,1,0,1,0,1,2,1,2,0,0,0,0,0,2,0,3,1,0,no,2025-06-03,2
+224,annual_year_1_arm_1,1,0,,1,,16,2,3,5,0,0,0,0,,,,,,,,,0,0,0,2,3,2,1,0,0,,2024-07-07,2
+224,annual_year_2_arm_1,1,0,,1,,18,2,3,5,0,0,0,0,,,,,,,,,0,0,1,2,3,4,0,0,6,No,2025-08-18,2
+225,annual_year_1_arm_1,0,0,,0,,36,2,3,4,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,None!,2025-09-22,2
+226,annual_year_1_arm_1,1,1,"Birth control",1,,63,2,2,4,2,2,1,5,0,1,0,2,2,1,1,0,0,1,2,3,2,6,31,26,31,No,2025-12-01,2
+227,annual_year_1_arm_1,0,0,,0,,70,3,2,4,1,1,1,5,0,1,4,2,1,3,3,0,0,1,0,2,3,0,7,0,0,"I went on a birth control pill in February due to bad cramping and irregular periods which entirely stopped my menstruation until May, when I went off the pill. Since May, my period comes randomly, and usually skips a month.",2025-09-20,2
+229,annual_year_1_arm_1,1,0,,1,,34,1,3,3,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0,2,3,4,2,0,12,No,2025-01-11,2
+229,annual_year_2_arm_1,1,0,,1,,54,2,3,2,0,0,1,2,0,1,1,1,1,0,0,0,0,1,0,2,3,3,0,0,7,Nope,2026-01-05,2
+231,annual_year_1_arm_1,1,0,,1,,71,3,2,4,0,0,0,4,0,0,4,3,3,1,3,0,1,0,0,2,3,1,47,7,0,"Nothing ",2024-11-14,2
+231,annual_year_2_arm_1,1,0,,1,,62,3,4,3,1,0,0,0,,,,,,,,,1,0,0,3,3,3,58,8,0,,2025-11-09,2
+234,annual_year_1_arm_1,1,0,,1,,43,2,3,4,0,0,0,2,0,0,0,0,3,2,2,0,0,0,0,1,4,0,11,4,8,,2024-08-12,2
+234,annual_year_2_arm_1,1,0,,1,,29,3,4,5,0,0,0,0,,,,,,,,,0,0,0,2,3,0,15,0,0,No,2025-07-18,2
+235,annual_year_1_arm_1,1,1,"Birth control (Mili)",1,,33,2,3,5,0,0,1,4,0,1,3,3,1,1,1,1,0,2,1,3,3,3,0,0,81,,2024-06-05,2
+235,annual_year_2_arm_1,1,1,"Mili ",1,,0,1,3,3,0,0,0,1,0,1,4,3,1,0,0,0,0,0,0,0,0,1,0,0,0,,2025-06-14,2
+236,annual_year_1_arm_1,1,0,,1,,66,3,2,5,0,0,2,3,0,0,3,2,1,1,1,0,2,2,0,1,3,2,2,2,34,,2025-05-02,2
+236,annual_year_2_arm_1,0,0,,1,,74,3,2,5,0,1,0,5,0,0,4,1,1,1,1,1,2,3,1,3,3,7,0,0,6,"Taking AP classes and increased homework levels",2026-02-08,2
+242,annual_year_1_arm_1,0,0,,3,"Weight loss or exercising a lot",,,,,0,0,0,2,1,0,0,4,0,1,3,2,1,1,2,3,3,0,0,0,0,,2023-10-30,2
+242,annual_year_2_arm_1,1,0,,0,,42,3,3,3,0,2,2,0,,,,,,,,,0,1,0,2,3,2,38,7,1,No,2024-10-08,2
+242,annual_year_3_arm_1,1,0,,1,,64,3,4,2,0,2,2,3,0,0,0,3,1,0,0,2,1,2,0,4,2,3,52,21,0,N/A,2025-10-31,2
+244,annual_year_2_arm_1,1,1,"birth control pills",1,,33,0,,4,0,0,0,0,,,,,,,,,0,0,0,2,3,0,8,5,0,"I had 2 stretches of 100+ days without my period (one at the end of last year and one at the beginning of this year) but my period has become regular since starting birth control.",2025-06-17,2
+245,annual_year_1_arm_1,1,0,,1,,36,2,3,3,2,1,2,2,0,1,3,3,2,3,3,0,1,0,0,2,3,4,22,10,26,"I am currently studying abroad!",2025-02-17,2
+245,annual_year_2_arm_1,1,1,"Birth control pills",1,,25,2,3,4,0,0,2,2,0,1,4,3,2,1,1,1,0,0,0,2,3,3,10,6,6,NONE,2026-02-08,2
+249,annual_year_1_arm_1,1,1,"Aurovela Fe 1/20 ",1,,0,0,,3,0,0,0,3,0,0,4,3,2,2,2,0,0,0,0,0,4,0,10,0,0,"I got pregnant in November and had an abortion by pill in December which caused a complication that was later resolved in January through a surgical procedure. I went on birth control shortly after",2024-05-20,2
+249,annual_year_2_arm_1,0,1,"Aurovela Fe",3,"Birth Control",,,,,0,0,0,0,,,,,,,,,0,0,0,1,3,0,0,0,0,N/A,2023-10-01,2
+252,annual_year_1_arm_1,1,0,,1,,39,0,,4,0,0,1,3,1,1,0,1,1,1,3,0,3,0,0,0,4,3,33,12,45,"Exciting: I made scholars  Stressors: Trying to make scholaea ",2023-12-12,2
+252,annual_year_2_arm_1,1,0,,1,,59,0,,3,2,2,2,4,1,0,0,1,2,1,3,0,0,0,1,1,4,4,52,50,50,"This week I have final exams and tests have been harder and I've been studying lots of times. Also to mention from before, I had pain not as often. Like it would be days before my period I'll have a  bad stomach ache and then on my period there will only be like a day that will have pain and my bleeding is around 4 days long, and I don't drink a lot of water. ",2024-12-26,2
+254,annual_year_1_arm_1,1,0,,1,,14,0,,4,0,0,0,1,0,1,0,2,0,0,0,0,0,0,1,2,3,2,0,0,9,,2024-07-24,2
+256,annual_year_1_arm_1,1,0,,1,,0,0,,4,0,0,0,0,,,,,,,,,0,0,0,1,4,0,0,0,0,None,2025-06-17,2
+257,annual_year_2_arm_1,1,0,,1,,74,2,3,4,1,0,0,3,0,1,4,4,1,1,3,2,2,1,2,3,2,1,13,7,9,No,2025-07-16,2
+261,annual_year_1_arm_1,1,0,,1,,47,1,1,3,1,0,1,0,,,,,,,,,0,1,2,2,2,4,26,0,20,"Not at all ",2024-07-27,2
+261,annual_year_2_arm_1,0,0,,2,,52,1,2,4,1,0,1,0,,,,,,,,,0,0,0,3,3,2,40,6,3,No,2025-08-03,2
+262,annual_year_1_arm_1,1,0,,1,,66,1,3,4,1,1,1,0,,,,,,,,,1,1,0,3,4,0,11,0,0,"Incoming freshman in high school ",2024-07-11,2
+266,annual_year_1_arm_1,1,0,,1,,54,1,3,2,0,1,0,5,0,1,1,2,0,1,2,0,2,2,0,3,4,2,3,0,7,"too much homeworkkkkk",2024-10-25,2
+266,annual_year_2_arm_1,1,0,,1,,60,0,,2,0,0,0,4,0,0,3,2,2,0,1,0,1,0,0,3,4,3,0,0,0,,2026-02-18,2
+267,annual_year_1_arm_1,1,0,,1,,3,0,,6,0,0,0,1,0,0,3,4,1,0,0,0,2,4,0,4,2,0,24,27,0,N/A,2025-02-21,2
+268,annual_year_1_arm_1,1,0,,2,,50,3,4,4,0,0,0,0,,,,,,,,,0,0,0,0,3,7,0,89,50,"Broke collar bone during softball game ",2024-07-29,2
+269,annual_year_1_arm_1,1,0,,1,,60,2,2,6,0,0,0,0,,,,,,,,,0,0,1,2,4,1,4,11,0,"Nothing major except school stress. ",2023-12-16,2
+269,annual_year_2_arm_1,0,0,,1,,46,1,3,4,0,0,0,0,,,,,,,,,0,1,0,2,3,1,0,0,0,No,2025-01-24,2
+271,annual_year_1_arm_1,1,0,,1,,3,0,,3,0,0,0,0,,,,,,,,,1,0,0,2,4,0,4,2,3,"finished freshman year?",2024-06-12,2
+271,annual_year_2_arm_1,1,0,,0,,0,0,,4,0,0,0,0,,,,,,,,,0,0,0,2,3,0,9,0,0,,2025-08-08,2
+273,annual_year_1_arm_1,1,0,,1,,55,4,3,3,1,1,2,2,0,1,1,1,4,0,0,0,2,2,2,3,3,0,0,0,0,Nope!,2024-10-13,2
+273,annual_year_2_arm_1,1,0,,1,,45,3,3,5,1,1,1,2,0,0,4,4,2,2,2,2,0,0,0,1,4,0,6,6,8,"Nope ",2025-10-27,2
+276,annual_year_1_arm_1,1,0,,1,,4,0,,3,1,0,0,0,,,,,,,,,0,0,0,2,4,0,4,8,4,,,0
+278,annual_year_1_arm_1,1,0,,1,,24,0,,2,0,0,1,2,0,1,4,3,3,3,2,0,1,4,3,4,1,2,6,0,0,"increased school work and sports",2025-10-02,2
+280,annual_year_2_arm_1,1,1,IUD,1,,30,1,2,5,1,1,1,3,0,1,4,3,3,3,3,1,0,0,0,2,3,0,23,0,0,No,2025-05-28,2
+281,annual_year_1_arm_1,1,0,,1,,50,1,2,3,2,1,2,3,0,0,0,3,3,4,4,0,0,0,1,0,4,4,38,0,24,"A lot of social stressors ",2025-02-28,2
+282,annual_year_1_arm_1,1,0,,1,,13,0,,4,0,0,0,3,0,1,0,3,3,3,3,1,2,0,1,2,3,2,9,0,20,"One stressor was that a favorite coach passed away unexpectedly a few weeks ago. That caused a lot of emotions. ",2025-03-17,2
+283,annual_year_1_arm_1,1,0,,1,,60,3,2,6,0,0,0,3,0,1,0,2,0,0,0,0,0,0,0,0,4,6,0,0,0,"No there has not  ",2024-08-29,2
+283,annual_year_2_arm_1,1,0,,1,,57,2,2,6,0,0,0,0,,,,,,,,,0,0,0,0,4,5,4,3,3,No,2025-09-10,2
+284,annual_year_1_arm_1,1,0,,1,,24,1,2,6,0,0,0,0,,,,,,,,,1,1,0,1,4,0,0,0,0,,2024-07-29,2
+284,annual_year_2_arm_1,1,1,Advil,1,,100,1,2,6,0,0,0,1,0,1,0,4,0,0,0,0,0,0,0,2,3,0,0,0,0,Nope,2025-08-07,2
+288,annual_year_1_arm_1,1,1,accutane,1,,23,0,,3,0,1,0,0,,,,,,,,,0,0,1,1,2,2,3,0,0,"started accutane around a month ago",2024-06-15,2
+288,annual_year_2_arm_1,1,0,,1,,62,2,2,3,0,1,0,0,,,,,,,,,0,0,0,1,2,5,3,0,0,,2025-07-10,2
+291,annual_year_1_arm_1,1,0,,1,,29,1,2,3,0,0,0,0,,,,,,,,,0,0,0,0,4,0,19,1,3,,2025-07-19,2
+292,annual_year_1_arm_1,1,0,,1,,14,2,3,4,2,1,1,3,0,0,0,3,2,0,0,0,1,2,1,3,2,1,0,1,5,"I recently learned that my periods are more painful than normal.",2025-02-02,2
+295,annual_year_1_arm_1,0,0,,0,,54,0,,4,0,0,1,0,,,,,,,,,1,1,0,2,3,1,11,0,0,No.,2025-09-12,2
+296,annual_year_1_arm_1,1,0,,1,,12,0,,5,0,0,0,0,,,,,,,,,1,2,1,2,3,1,0,0,7,Nope,2025-09-11,2
+298,annual_year_1_arm_1,1,0,,1,,57,4,3,3,1,1,1,3,0,0,3,3,2,1,0,2,2,3,3,3,2,3,1,3,12,nothing,2024-11-17,2
+298,annual_year_2_arm_1,1,0,,1,,75,4,2,4,3,2,1,3,0,1,3,3,1,1,0,1,1,1,1,3,3,1,3,1,7,Nothing,2025-10-16,2
+301,annual_year_1_arm_1,1,0,,1,,32,2,2,3,1,0,1,4,0,1,2,2,0,0,0,0,0,0,1,3,2,3,0,0,9,"increased stress in my senior year due to college/scholarship applications and my older sister moving out",2025-11-25,2
+314,annual_year_1_arm_1,1,0,,1,,56,3,3,5,0,0,0,3,0,0,4,4,2,2,0,0,0,0,1,1,4,0,23,0,17,,2024-06-17,2
+314,annual_year_2_arm_1,1,0,,1,,43,3,3,6,0,0,0,0,,,,,,,,,0,0,1,1,3,1,14,0,5,,2025-06-13,2
+316,annual_year_1_arm_1,1,0,,0,,29,1,1,4,0,0,2,2,0,0,1,3,1,0,0,0,2,2,1,4,2,4,16,0,26,Nope!,2024-05-07,2
+316,annual_year_2_arm_1,1,0,,0,,58,0,,3,0,0,0,0,,,,,,,,,3,2,1,4,2,6,9,1,4,,2025-06-07,2
+322,annual_year_1_arm_1,0,1,"Progesterone ",0,,7,1,3,3,1,0,0,1,0,0,2,3,2,1,1,1,0,0,0,2,3,1,7,0,0,N/A,2024-07-13,2
+322,annual_year_2_arm_1,1,0,,1,,18,0,,3,0,0,0,0,,,,,,,,,0,0,0,2,4,0,7,0,7,"currently recovered from an ED",2025-06-17,2
+323,annual_year_1_arm_1,1,0,,1,,63,3,3,4,0,1,2,0,,,,,,,,,1,1,2,2,4,0,0,2,2,"I have a big test coming up that will determine which high school I can go to.",2024-09-05,2
+325,annual_year_1_arm_1,1,0,,1,,37,2,3,3,0,0,0,1,0,1,1,3,0,0,0,0,1,0,2,1,2,0,0,0,0,,2025-08-02,2
+326,annual_year_1_arm_1,1,0,,0,,66,3,1,4,0,1,1,4,0,1,3,2,3,0,2,2,0,0,0,1,4,3,,,,No,,0
+327,annual_year_1_arm_1,1,0,,1,,50,2,2,3,0,0,0,3,0,0,4,0,2,2,1,0,0,0,0,0,3,0,12,3,0,None,2025-03-04,2
+328,annual_year_1_arm_1,0,1,Drospirenone,3,"I don't know",,,,,0,0,0,0,,,,,,,,,0,0,0,1,3,3,7,0,7,"My parents separated in April",2025-06-05,2
+330,annual_year_1_arm_1,1,0,,1,,71,4,3,5,3,3,4,0,,,,,,,,,2,3,4,3,3,1,66,0,8,,2024-07-21,2
+331,annual_year_1_arm_1,1,0,,1,,58,3,2,4,0,1,2,4,0,1,0,2,1,0,1,1,2,2,2,3,3,3,7,5,13,,2024-06-27,2
+331,annual_year_2_arm_1,1,0,,1,,59,3,2,5,1,2,3,4,0,1,0,4,1,1,2,2,3,2,3,3,3,5,4,0,6,,2025-06-18,2
+333,annual_year_1_arm_1,1,0,,1,,,0,,5,0,0,2,3,0,1,4,0,1,2,1,1,0,1,0,2,3,2,2,0,0,,2024-06-19,2
+333,annual_year_2_arm_1,1,0,,1,,67,1,4,5,1,2,3,0,,,,,,,,,0,0,0,3,3,3,13,0,0,,2025-06-12,2
+334,annual_year_1_arm_1,1,0,,1,,50,2,3,4,1,0,1,2,0,1,0,0,1,0,0,0,2,2,2,3,3,5,18,0,0,no,2025-08-16,2
+345,annual_year_1_arm_1,1,0,,1,,82,3,2,6,0,1,0,3,0,1,4,1,0,1,1,1,0,0,0,0,3,0,0,0,0,"No  ",2025-05-30,2
+346,annual_year_1_arm_1,1,0,,2,,100,4,2,5,0,2,2,1,0,1,0,0,1,2,0,0,0,0,2,2,3,3,0,0,0,"I turned 16 on April 20th!",2025-04-27,2
+365,annual_year_1_arm_1,1,0,,1,,40,2,3,6,0,2,2,3,0,1,0,2,3,2,3,1,4,4,2,4,3,2,16,56,11,,2025-02-11,2
+370,annual_year_1_arm_1,0,0,,3,"My period is irregular ",,,,,0,0,1,0,,,,,,,,,2,0,2,4,4,5,0,0,0,"I have a lower back/hip injury ",2024-12-02,2
+371,annual_year_1_arm_1,0,0,,3,"stress or maybe me starting back on sports more frequently. ",,,,,0,0,1,0,,,,,,,,,0,0,0,2,4,0,0,0,0,"none. ",2025-08-14,2
+373,annual_year_1_arm_1,0,0,,0,,51,2,3,3,0,0,0,5,1,0,3,2,0,0,1,0,0,0,3,3,4,6,0,7,24,"I have been very stressed in school recently, and was diagnosed with IBS last school year. Additionally, my periods have been skipping over months.",2025-10-04,2
+378,annual_year_1_arm_1,0,0,,3,"idk bro just irregular",,,,,0,0,2,0,,,,,,,,,0,0,0,2,3,2,0,0,0,"no changes",2025-05-21,2
+379,annual_year_1_arm_1,1,0,,1,,60,3,2,4,0,0,2,0,,,,,,,,,1,1,3,2,4,3,3,0,0,,2025-06-18,2
+382,annual_year_1_arm_1,1,0,,0,,35,3,4,3,0,0,2,0,,,,,,,,,1,1,0,2,3,3,0,0,0,,2025-07-04,2
+393,annual_year_1_arm_1,1,0,,1,,69,0,,4,0,0,0,5,1,1,,0,0,1,0,1,2,2,2,2,3,8,77,50,44,"It's summer",2025-07-04,2
+399,annual_year_1_arm_1,1,0,,1,,6,1,3,4,0,0,0,0,,,,,,,,,0,0,0,2,3,0,0,2,2,"graduated from grade school and heading to high school!   woohoo!!!",2025-06-08,2
+405,annual_year_1_arm_1,1,0,,1,,4,0,,5,0,0,0,0,,,,,,,,,1,0,1,1,3,0,0,0,0,no,2025-07-13,2

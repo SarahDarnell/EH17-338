@@ -1,0 +1,32 @@
+#Table of median [IQR] of avg_NMPP by annual year
+
+  Item              year1                 year2                 year3                 
+ avg_NMPP   4.7 [1.0-16.8], n=131   4.5 [0.2-11.2], n=96    8.5 [1.0-15.4], n=48
+
+
+#Table of median [IQR] of avg_NMPP by OCP use and annual year
+
+  Item             `0`                      `1`                annual_year
+ avg_NMPP   5.0 [0.9-17.2], n=120     4.7 [2.8-8.7], n=11            1
+ avg_NMPP   4.7 [0.3-12.0], n=81      4.3 [0.0-7.8], n=15            2
+ avg_NMPP   7.3 [1.0-16.5], n=39     12.0 [5.7-13.3], n=9            3
+
+
+#Kruskal-Wallis rank sum tests of NMPP by ocp use
+
+#all years
+data:  avg_NMPP by ocps
+Kruskal-Wallis chi-squared = 0.059926, df = 1, p-value = 0.8066
+
+#year 1
+data:  avg_NMPP by ocps
+Kruskal-Wallis chi-squared = 0.0014061, df = 1, p-value = 0.9701
+
+#year 2
+data:  avg_NMPP by ocps
+Kruskal-Wallis chi-squared = 0.73871, df = 1, p-value = 0.3901
+
+#year 3
+data:  avg_NMPP by ocps
+Kruskal-Wallis chi-squared = 0.72325, df = 1, p-value = 0.3951
+

@@ -12,7 +12,7 @@ library(tableone)
 setwd("~/Sarah work stuff/2025 Data Projects/EH17-338/EH17-338")
 
 #import annual data
-annuals <- read_csv("Raw Data/EH17338EMPATHY-AnnualData_DATA_2026-02-10_1113.csv")
+annuals <- read_csv("Raw Data/EH17338EMPATHY-AnnualData_DATA_2026-03-10_1023.csv")
 
 #change redcap event names to be more readable
 annuals <- annuals %>%
@@ -150,3 +150,107 @@ pk_ocps <- bind_rows(
   pk_y2_ocps %>% mutate(annual_year = 2),
   pk_y3_ocps %>% mutate(annual_year = 3)
 )
+
+
+#Calculate avg bowel, bladder, and pelvic pain
+sink("Logs/nmpp_log_3.10.26.txt")
+
+annuals <- annuals %>%
+  mutate(avg_NMPP = (annual_q28 + annual_q29 + annual_q30)/3
+           )
+  
+#table of values with medians by year  
+nmpp_tbl <- annuals %>%
+  select(avg_NMPP, redcap_event_name) %>%
+  pivot_longer(cols = -redcap_event_name, names_to = "Item", values_to = "Value") %>% 
+  group_by(redcap_event_name, Item) %>%
+  dplyr::summarize(`Median [IQR]` = sprintf("%.1f [%.1f-%.1f], n=%d", 
+                                            median(Value, na.rm = TRUE), 
+                                            quantile(Value, 0.25, na.rm = TRUE),
+                                            quantile(Value, 0.75, na.rm = TRUE),
+                                            sum(!is.na(Value))),
+                   .groups = "drop") %>%
+  pivot_wider(names_from = redcap_event_name, values_from = `Median [IQR]`) 
+
+print(nmpp_tbl)  
+  
+#table of values with medians by year, stratified by OCP use  
+nmpp_ocp_y1 <- annuals %>%
+  filter(redcap_event_name == "year1") %>%
+  select(avg_NMPP, ocps) %>%
+  pivot_longer(cols = -ocps, names_to = "Item", values_to = "Value") %>% 
+  group_by(ocps, Item) %>%
+  dplyr::summarize(`Median [IQR]` = sprintf("%.1f [%.1f-%.1f], n=%d", 
+                                            median(Value, na.rm = TRUE), 
+                                            quantile(Value, 0.25, na.rm = TRUE),
+                                            quantile(Value, 0.75, na.rm = TRUE),
+                                            sum(!is.na(Value))),
+                   .groups = "drop") %>%
+  pivot_wider(names_from = ocps, values_from = `Median [IQR]`) 
+
+nmpp_ocp_y2 <- annuals %>%
+  filter(redcap_event_name == "year2") %>%
+  select(avg_NMPP, ocps) %>%
+  pivot_longer(cols = -ocps, names_to = "Item", values_to = "Value") %>% 
+  group_by(ocps, Item) %>%
+  dplyr::summarize(`Median [IQR]` = sprintf("%.1f [%.1f-%.1f], n=%d", 
+                                            median(Value, na.rm = TRUE), 
+                                            quantile(Value, 0.25, na.rm = TRUE),
+                                            quantile(Value, 0.75, na.rm = TRUE),
+                                            sum(!is.na(Value))),
+                   .groups = "drop") %>%
+  pivot_wider(names_from = ocps, values_from = `Median [IQR]`) 
+
+nmpp_ocp_y3 <- annuals %>%
+  filter(redcap_event_name == "year3") %>%
+  select(avg_NMPP, ocps) %>%
+  pivot_longer(cols = -ocps, names_to = "Item", values_to = "Value") %>% 
+  group_by(ocps, Item) %>%
+  dplyr::summarize(`Median [IQR]` = sprintf("%.1f [%.1f-%.1f], n=%d", 
+                                            median(Value, na.rm = TRUE), 
+                                            quantile(Value, 0.25, na.rm = TRUE),
+                                            quantile(Value, 0.75, na.rm = TRUE),
+                                            sum(!is.na(Value))),
+                   .groups = "drop") %>%
+  pivot_wider(names_from = ocps, values_from = `Median [IQR]`) 
+
+#merge tables together, add variable for annual year
+nmpp_ocps_tbl <- bind_rows(
+  nmpp_ocp_y1 %>% mutate(annual_year = 1),
+  nmpp_ocp_y2 %>% mutate(annual_year = 2),
+  nmpp_ocp_y3 %>% mutate(annual_year = 3)
+)
+
+print(nmpp_ocps_tbl)
+
+#krukal wallis test nmpp ocp use
+
+#all years
+kruskal.test(avg_NMPP ~ ocps, data = annuals)
+
+#y1
+annuals_y1 <- annuals %>%
+  filter(redcap_event_name == "year1")
+kruskal.test(avg_NMPP ~ ocps, data = annuals_y1)
+
+#y2
+annuals_y2 <- annuals %>%
+  filter(redcap_event_name == "year2")
+kruskal.test(avg_NMPP ~ ocps, data = annuals_y2)
+
+#y3
+annuals_y3 <- annuals %>%
+  filter(redcap_event_name == "year3")
+kruskal.test(avg_NMPP ~ ocps, data = annuals_y3)
+
+sink()
+
+
+
+
+
+
+
+
+
+
