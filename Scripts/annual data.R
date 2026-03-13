@@ -246,7 +246,98 @@ kruskal.test(avg_NMPP ~ ocps, data = annuals_y3)
 sink()
 
 
+#Calculate IBS criteria 
+sink("Logs/activities_rome_log_3.13.26.txt")
 
+annuals <- annuals %>%
+  mutate(IBS_flag = if_else(
+    annual_q13 > 3 & 
+    annual_q16 < 5 & 
+    annual_q14 == 0 & 
+    annual_q15 == 0 &
+    (annual_q18 > 1 |
+    annual_q19 > 1 |
+    annual_q20 > 1 |
+    annual_q21 > 1), 1, 0, missing = 0 
+  ))
+
+#table of missed activities and rome criteria at each year
+
+#ensure vars are factors
+annuals <- annuals %>%
+  mutate(annual_q10 = as.factor(annual_q10)) %>%
+  mutate(annual_q11 = as.factor(annual_q11)) %>%
+  mutate(annual_q12 = as.factor(annual_q12)) %>%
+  mutate(annual_q13 = as.factor(annual_q13)) %>%
+  mutate(annual_q16 = as.factor(annual_q16)) %>%
+  mutate(annual_q14 = as.factor(annual_q14)) %>%
+  mutate(annual_q15 = as.factor(annual_q15)) %>%
+  mutate(annual_q18 = as.factor(annual_q18)) %>%
+  mutate(annual_q19 = as.factor(annual_q19)) %>%
+  mutate(annual_q20 = as.factor(annual_q20)) %>%
+  mutate(annual_q21 = as.factor(annual_q21)) %>%
+  mutate(IBS_flag = as.factor(IBS_flag)) 
+
+#define vars for table
+vars <- c("annual_q10", 
+          "annual_q11",
+          "annual_q12",
+          "IBS_flag",
+          "annual_q13",
+          "annual_q16",
+          "annual_q14",
+          "annual_q15",
+          "annual_q18",
+          "annual_q19",
+          "annual_q20",
+          "annual_q21")
+
+annuals_y1 <- annuals %>%
+  filter(redcap_event_name == "year1")
+
+rome_y1_ocps <- CreateTableOne(vars, data = annuals_y1, factorVars = vars, 
+                             strata = "ocps")
+
+rome_y1_ocps <- as.data.frame(print(rome_y1_ocps, 
+                                  printToggle = FALSE,
+                                  quote = FALSE,
+                                  noSpaces = TRUE,
+                                  showAllLevels = TRUE))
+
+annuals_y2 <- annuals %>%
+  filter(redcap_event_name == "year2")
+
+rome_y2_ocps <- CreateTableOne(vars, data = annuals_y2, factorVars = vars, 
+                               strata = "ocps")
+
+rome_y2_ocps <- as.data.frame(print(rome_y2_ocps, 
+                                    printToggle = FALSE,
+                                    quote = FALSE,
+                                    noSpaces = TRUE,
+                                    showAllLevels = TRUE))
+
+annuals_y3 <- annuals %>%
+  filter(redcap_event_name == "year3")
+
+rome_y3_ocps <- CreateTableOne(vars, data = annuals_y3, factorVars = vars, 
+                               strata = "ocps")
+
+rome_y3_ocps <- as.data.frame(print(rome_y3_ocps, 
+                                    printToggle = FALSE,
+                                    quote = FALSE,
+                                    noSpaces = TRUE,
+                                    showAllLevels = TRUE))
+
+#merge tables together, add variable for annual year
+rome_ocps <- bind_rows(
+  rome_y1_ocps %>% mutate(annual_year = 1),
+  rome_y2_ocps %>% mutate(annual_year = 2),
+  rome_y3_ocps %>% mutate(annual_year = 3)
+)
+
+print(rome_ocps)
+
+sink()
 
 
 
